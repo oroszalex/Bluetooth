@@ -66,4 +66,13 @@ span {
 th {
   background-color: #0a82f7;
   color: white;
+  border: solid 1px black;
+  text-align: center;
+  padding: 15px;
+}
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 15px;
+  text-align: center;
 }

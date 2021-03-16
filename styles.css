@@ -63,3 +63,7 @@ span {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
 }
+th {
+  background-color: #0a82f7;
+  color: white;
+}
